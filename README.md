@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou a Thata Honorato  
+# 👋 Olá! Sou Thata Honorato  
 
 🎓 **Pedagoga e Historiadora**, com pós-graduação em Docência no Ensino Superior, atualmente em **transição de carreira para Análise de Dados**.  
 Tenho paixão por **aprender, ensinar e transformar informações em decisões inteligentes**.  
