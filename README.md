@@ -1,4 +1,4 @@
-⭐ _“Dados contam histórias — e meu papel é traduzi-las para o mundo.”_
+⭐ *_“Dados contam histórias — e meu papel é traduzi-las para o mundo.”_*
 
 
 
@@ -14,11 +14,15 @@ No meu portfólio, encontrarás projetos com foco em **educação, mobilidade ur
 ---
 
 
-## ⚡ Projeto em Destaque — Energia Renovável (Em Andamento)
+**`Em Destaque`**
+## ⚡ Energia Renovável (Projeto Em Andamento)
 
 📊 **Título:** Análise de Capacidade e Distribuição de Usinas de Energia Renovável na Itália  
+
 🔍 **Objetivo:** Explorar e visualizar dados de energia eólica, solar e hidroelétrica, identificando padrões regionais e correlações com fatores econômicos e ambientais.  
+
 🧠 **Tecnologias:** Python, Pandas, Plotly, Streamlit, Geopandas, SQL  
+
 🚀 **Status:** Desenvolvimento do dashboard interativo com indicadores regionais e mapa georreferenciado.
 
 ---
@@ -97,56 +101,15 @@ No meu portfólio, encontrarás projetos com foco em **educação, mobilidade ur
 
 ## 🧰 Ferramentas e Tecnologias  
 
-<p align="left">
+<img align="left" alt="Python" title="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/> <img align="left" alt="Pandas" title="Pandas" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/> <img align="left" alt="NumPy" title="NumPy" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/> <!-- Plotly (custom SVG since Devicon doesn't have one) --> <img align="left" alt="Plotly" title="Plotly" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg"/> <!-- Streamlit (custom SVG) --> <img align="left" alt="Streamlit" title="Streamlit" width="40px" style="padding-right:10px;" src="https://streamlit.io/images/brand/streamlit-mark-color.svg"/> <!-- SQL / MySQL --> <img align="left" alt="SQL" title="SQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/> <!-- Tableau (custom SVG) --> <img align="left" alt="Tableau" title="Tableau" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png"/> <!-- Power BI (custom SVG) --> <img align="left" alt="Power BI" title="Power BI" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"/> <!-- Git --> <img align="left" alt="Git" title="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/> <!-- GitHub --> <img align="left" alt="GitHub" title="GitHub" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 
-  <!-- Python -->
-  <img alt="Python" title="Python" width="50px" 
-       style="padding:8px; border-radius:12px; background-color:rgba(240,240,240,0.2); margin-right:10px;" 
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> 
-       
-  <!-- Pandas -->
-  <img alt="Pandas" title="Pandas" width="50px" 
-       style="padding:8px; border-radius:12px; background-color:rgba(240,240,240,0.2); margin-right:10px;" 
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
-       
-  <!-- NumPy -->
-  <img alt="NumPy" title="NumPy" width="50px" 
-       style="padding:8px; border-radius:12px; background-color:rgba(240,240,240,0.2); margin-right:10px;" 
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/>
-       
-  <!-- Plotly -->
- <img align="left" alt="Plotly" title="Plotly" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg"/>
- 
-  <!-- Streamlit -->
-  <img alt="Streamlit" title="Streamlit" width="50px" 
-       style="padding:8px; border-radius:12px; background-color:rgba(240,240,240,0.2); margin-right:10px;" 
-       src="https://streamlit.io/images/brand/streamlit-mark-color.svg"/>
-       
-  <!-- SQL / MySQL -->
-  <img alt="SQL" title="SQL" width="50px" 
-       style="padding:8px; border-radius:12px; background-color:rgba(240,240,240,0.2); margin-right:10px;" 
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-       
-  <!-- Tableau -->
-  <img alt="Tableau" title="Tableau" width="50px" 
-       style="padding:8px; border-radius:12px; background-color:rgba(240,240,240,0.2); margin-right:10px;" 
-       src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png"/>
-       
-  <!-- Power BI -->
-  <img alt="Power BI" title="Power BI" width="50px" 
-       style="padding:8px; border-radius:12px; background-color:rgba(240,240,240,0.2); margin-right:10px;" 
-       src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"/>
-       
-  <!-- Git -->
-  <img alt="Git" title="Git" width="50px" 
-       style="padding:8px; border-radius:12px; background-color:rgba(240,240,240,0.2); margin-right:10px;" 
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-       
-  <!-- GitHub -->
-  <img alt="GitHub" title="GitHub" width="50px" 
-       style="padding:8px; border-radius:12px; background-color:rgba(240,240,240,0.2); margin-right:10px;" 
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-</p>
+
+
+<br>
+
+
+
+-----
 
 ### 📊 Estatísticas do GitHub
 
@@ -201,3 +164,5 @@ No meu portfólio, encontrarás projetos com foco em **educação, mobilidade ur
   </a>
 
 </div>
+
+
