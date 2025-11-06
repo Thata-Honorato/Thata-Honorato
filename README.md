@@ -9,7 +9,7 @@
 Sou **Thata Honorato**, Historiadora e Pedagoga com especialização em Docência no Ensino Superior e formação em **Data Analytics** pela **TripleTen-Bootcamp**.  
 Apaixonada por transformar dados em histórias que inspiram decisões estratégicas, atuo em análises exploratórias, dashboards interativos e storytelling com dados.  
 
-No meu portfólio, encontrarás projetos com foco em **educação, mobilidade urbana, marketing digital e comportamento do usuário**, utilizando ferramentas modernas de análise e visualização.
+No meu portfólio, apresento projetos que elaborei com foco em **educação, mobilidade urbana, marketing digital e comportamento do usuário**, utilizando ferramentas modernas de análise e visualização.
 
 ---
 
