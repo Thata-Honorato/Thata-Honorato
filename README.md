@@ -1,64 +1,203 @@
-# 👋 Olá! Sou Thata Honorato  
-
-🎓 **Pedagoga e Historiadora**, com pós-graduação em Docência no Ensino Superior, atualmente em **transição de carreira para Análise de Dados**.  
-Tenho paixão por **aprender, ensinar e transformar informações em decisões inteligentes**.  
-
----
-
-## 💼 **Portfólio Data Analytics**
-
-📊 Este portfólio reúne projetos práticos desenvolvidos ao longo da minha formação na **TripleTen** e estudos independentes, com foco em **análises exploratórias, dashboards interativos, testes A/B e storytelling com dados**.  
-
-🔗 **Veja todos os meus projetos aqui:**  
-👉 [github.com/Thata-Honorato?tab=projects](https://github.com/Thata-Honorato?tab=projects)
-
----
-
-## 🧠 **Competências Técnicas**
-
-| Área | Tecnologias e Ferramentas |
-|------|-----------------------------|
-| **Linguagens** | Python, SQL |
-| **Bibliotecas de Análise** | Pandas, NumPy, SciPy, StatsModels |
-| **Visualização de Dados** | Plotly, Matplotlib, Seaborn |
-| **Dashboards e BI** | Streamlit, Tableau, Power BI |
-| **Banco de Dados** | PostgreSQL, SQLite |
-| **Outros** | Excel, Google Sheets, Git, GitHub |
-
----
-
-## 📈 **Projetos em Destaque**
-
-### 🧩 [ENEM Dashboard](https://github.com/Thata-Honorato/enem_dashboard)
-Dashboard interativo desenvolvido em **Python + Streamlit** para explorar os resultados do ENEM.  
-Inclui tratamento de dados com **Pandas** e visualizações com **Plotly Express**.  
-> **Tema:** Educação | **Foco:** Análise Exploratória e Visualização  
-
-### 🚕 [Zuber Taxi Data Analysis](https://github.com/Thata-Honorato/zuber_analysis)
-Análise de dados de corridas de táxi em Chicago para testar hipóteses sobre o impacto do clima nas viagens.  
-> **Tema:** Mobilidade Urbana | **Foco:** Testes Estatísticos e Storytelling  
-
-### 🛍️ [A/B Test Online Store](https://github.com/Thata-Honorato/ab_test_store)
-Análise estatística de um experimento A/B em uma loja online.  
-> **Tema:** E-commerce | **Foco:** Teste de Hipóteses e Interpretação de Resultados  
-
----
-
-## 🌍 **Sobre Mim**
-
-Sou apaixonada por **dados, educação e impacto social**.  
-Depois de mais de 10 anos na área educacional, descobri nos dados uma nova forma de ensinar e aprender — agora através da **análise e da visualização**.  
-
-Busco oportunidades que unam **estratégia, análise e propósito**, onde eu possa continuar crescendo como **Data Analyst** e contribuir com projetos que gerem valor real.
-
----
-
-## 📫 **Vamos nos conectar!**
-
-💼 [LinkedIn](https://www.linkedin.com/in/thatahonorato)  
-📧 **Email:** thata.honorato@gmail.com  
-📊 [Portfólio no GitHub](https://github.com/Thata-Honorato?tab=projects)
-
----
-
 ⭐ _“Dados contam histórias — e meu papel é traduzi-las para o mundo.”_
+
+
+
+# 👩🏻‍💻 Thata Honorato
+
+**`Data Analyst`**
+
+Sou **Thata Honorato**, Historiadora e Pedagoga com especialização em Docência no Ensino Superior e formação em **Data Analytics** pela **TripleTen-Bootcamp**.  
+Apaixonada por transformar dados em histórias que inspiram decisões estratégicas, atuo em análises exploratórias, dashboards interativos e storytelling com dados.  
+
+No meu portfólio, encontrarás projetos com foco em **educação, mobilidade urbana, marketing digital e comportamento do usuário**, utilizando ferramentas modernas de análise e visualização.
+
+---
+
+
+## ⚡ Projeto em Destaque — Energia Renovável (Em Andamento)
+
+📊 **Título:** Análise de Capacidade e Distribuição de Usinas de Energia Renovável na Itália  
+🔍 **Objetivo:** Explorar e visualizar dados de energia eólica, solar e hidroelétrica, identificando padrões regionais e correlações com fatores econômicos e ambientais.  
+🧠 **Tecnologias:** Python, Pandas, Plotly, Streamlit, Geopandas, SQL  
+🚀 **Status:** Desenvolvimento do dashboard interativo com indicadores regionais e mapa georreferenciado.
+
+---
+
+## 🧠 Áreas de Interesse & Expertise  
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%" style="background-color:#d8f3dc; border-radius:10px; padding:10px;">
+  
+⚡ **Análise de Dados Energéticos**  
+🔋 Estudos sobre energia renovável, capacidade instalada, localização e padrões regionais.  
+
+</td>
+<td align="center" width="33%" style="background-color:#e9f5db; border-radius:10px; padding:10px;">
+  
+💡 **Análise Exploratória (EDA)**  
+🔍 Descoberta de padrões, tendências e insights relevantes em grandes volumes de dados.  
+
+</td>
+<td align="center" width="33%" style="background-color:#fefae0; border-radius:10px; padding:10px;">
+  
+📈 **Visualização & Storytelling**  
+🎨 Comunicação de dados de forma clara e envolvente usando Plotly, Tableau e Streamlit.  
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="33%" style="background-color:#e0f7fa; border-radius:10px; padding:10px;">
+  
+🗃️ **SQL & Integração de Dados**  
+🧠 Extração, limpeza e combinação de múltiplas fontes (CSV, SQL, Excel).  
+
+</td>
+<td align="center" width="33%" style="background-color:#ede7f6; border-radius:10px; padding:10px;">
+  
+⚙️ **Automação & Dashboards**  
+🚀 Criação de dashboards interativos com Streamlit, Tableau e Power BI.  
+
+</td>
+<td align="center" width="33%" style="background-color:#fff3e0; border-radius:10px; padding:10px;">
+  
+📊 **Marketing & Estudos de Mercado**  
+🎯 Análise de comportamento de usuários e performance de campanhas.  
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="33%" style="background-color:#f3e5f5; border-radius:10px; padding:10px;">
+  
+🌍 **Sustentabilidade & Georreferenciamento**  
+🌱 Estudos sobre impacto ambiental e análise espacial de dados por região e província.  
+
+</td>
+<td align="center" width="33%" style="background-color:#fce4ec; border-radius:10px; padding:10px;">
+  
+🧩 **Testes A/B & Experimentos**  
+🧪 Validação de hipóteses e comparação de grupos com base em dados reais.  
+
+</td>
+<td align="center" width="33%" style="background-color:#e8eaf6; border-radius:10px; padding:10px;">
+  
+📚 **Educação & História Digital**  
+🏛️ Aplicação de análise de dados em contextos educacionais e históricos.  
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+## 🧰 Ferramentas e Tecnologias  
+
+<p align="left">
+
+  <!-- Python -->
+  <img alt="Python" title="Python" width="50px" 
+       style="padding:8px; border-radius:12px; background-color:rgba(240,240,240,0.2); margin-right:10px;" 
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> 
+       
+  <!-- Pandas -->
+  <img alt="Pandas" title="Pandas" width="50px" 
+       style="padding:8px; border-radius:12px; background-color:rgba(240,240,240,0.2); margin-right:10px;" 
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
+       
+  <!-- NumPy -->
+  <img alt="NumPy" title="NumPy" width="50px" 
+       style="padding:8px; border-radius:12px; background-color:rgba(240,240,240,0.2); margin-right:10px;" 
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/>
+       
+  <!-- Plotly -->
+ <img align="left" alt="Plotly" title="Plotly" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg"/>
+ 
+  <!-- Streamlit -->
+  <img alt="Streamlit" title="Streamlit" width="50px" 
+       style="padding:8px; border-radius:12px; background-color:rgba(240,240,240,0.2); margin-right:10px;" 
+       src="https://streamlit.io/images/brand/streamlit-mark-color.svg"/>
+       
+  <!-- SQL / MySQL -->
+  <img alt="SQL" title="SQL" width="50px" 
+       style="padding:8px; border-radius:12px; background-color:rgba(240,240,240,0.2); margin-right:10px;" 
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+       
+  <!-- Tableau -->
+  <img alt="Tableau" title="Tableau" width="50px" 
+       style="padding:8px; border-radius:12px; background-color:rgba(240,240,240,0.2); margin-right:10px;" 
+       src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png"/>
+       
+  <!-- Power BI -->
+  <img alt="Power BI" title="Power BI" width="50px" 
+       style="padding:8px; border-radius:12px; background-color:rgba(240,240,240,0.2); margin-right:10px;" 
+       src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"/>
+       
+  <!-- Git -->
+  <img alt="Git" title="Git" width="50px" 
+       style="padding:8px; border-radius:12px; background-color:rgba(240,240,240,0.2); margin-right:10px;" 
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+       
+  <!-- GitHub -->
+  <img alt="GitHub" title="GitHub" width="50px" 
+       style="padding:8px; border-radius:12px; background-color:rgba(240,240,240,0.2); margin-right:10px;" 
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+</p>
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+
+  <img 
+      alt="GitHub Stats" 
+      height="180" 
+      src="https://github-readme-stats.vercel.app/api?username=Thata-Honorato&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+  <img 
+      alt="Top Languages" 
+      height="180" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thata-Honorato&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
+  />
+
+</div>
+
+---
+
+### 🌐 Conecte-se comigo
+
+<div align="center">
+  
+  <a href="https://www.linkedin.com/in/thata-pontes-honorato-24hp">
+    <img 
+         alt="LinkedIn" 
+         src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+    />
+  </a>
+
+  <a href="https://github.com/Thata-Honorato">
+    <img 
+         alt="GitHub" 
+         src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" 
+    />
+  </a>
+
+  <a href="mailto:thatahonorato@gmail.com">
+    <img 
+         alt="Email" 
+         src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
+    />
+  </a>
+
+  <a href="https://www.behance.net/thatahonorato">
+    <img 
+         alt="Behance" 
+         src="https://img.shields.io/badge/Behance-0057FF?style=for-the-badge&logo=behance&logoColor=white" 
+    />
+  </a>
+
+</div>
