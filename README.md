@@ -1,9 +1,15 @@
-⭐ «Los datos cuentan historias, y mi papel es traducirlas para el mundo.»
-👩🏻‍💻 Thata Honorato
+⭐ *«Los datos cuentan historias, y mi papel es traducirlas para el mundo.»*
+
+# 👩🏻‍💻 Thata Honorato
+
 📊 Educational Data Analyst | Learning Analytics & EdTech
-Soy Historiadora y Pedagoga, con posgrado en Docencia en Educación Superior y formación en Data Analytics por TripleTen.
+
+Soy Historiadora y Pedagoga, con posgrado en **Docencia en Educación Superior** y formación en **Data Analytics** por TripleTen.
+
 Combino experiencia educativa y análisis de datos para transformar información en insights que apoyen la toma de decisiones y mejoren las experiencias de aprendizaje.
+
 En mi portafolio comparto proyectos de análisis de datos, visualización y storytelling desarrollados con SQL, Python, Tableau y Streamlit, con especial interés en Learning Analytics, analítica educativa y EdTech.
+
 ---
 
 
