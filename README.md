@@ -78,8 +78,31 @@ En mi portafolio comparto proyectos de análisis de datos, visualización y stor
 
 <td align="center" width="33%" style="background-color:#fff3e0; border-radius:10px; padding:10px;">
 
-🧪 **A/B Testing & Análisis de Usuarios**
-🎯 Evaluación de comportamientos, hipótesis y métricas de interacción en entornos digitales.
+👥 **Comportamiento de Usuarios & A/B Testing**
+🧪 Análisis de interacción, engagement, retención y validación de hipótesis en entornos digitales.
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="33%" style="background-color:#f3e5f5; border-radius:10px; padding:10px;">
+
+🏛️ **Educación & Humanidades Digitales**
+📚 Aplicación de datos en contextos educativos, históricos y culturales.
+
+</td>
+
+<td align="center" width="33%" style="background-color:#fce4ec; border-radius:10px; padding:10px;">
+
+💡 **Business Intelligence**
+📈 Desarrollo de indicadores, métricas y dashboards para apoyar la toma de decisiones.
+
+</td>
+
+<td align="center" width="33%" style="background-color:#e8eaf6; border-radius:10px; padding:10px;">
+
+🌍 **Proyectos Multidisciplinares**
+🔍 Experiencia en educación, marketing digital, comportamiento de usuarios y análisis aplicado.
 
 </td>
 </tr>
@@ -87,6 +110,7 @@ En mi portafolio comparto proyectos de análisis de datos, visualización y stor
 </table>
 
 </div>
+
 
 
 ---
