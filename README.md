@@ -1,16 +1,9 @@
-⭐ *_“Dados contam histórias — e meu papel é traduzi-las para o mundo.”_*
-
-
-
-# 👩🏻‍💻 Thata Honorato
-
-**`Data Analyst`**
-
-Sou **Thata Honorato**, Historiadora e Pedagoga com especialização em Docência no Ensino Superior e formação em **Data Analytics** pela **TripleTen-Bootcamp**.  
-Apaixonada por transformar dados em histórias que inspiram decisões estratégicas, atuo em análises exploratórias, dashboards interativos e storytelling com dados.  
-
-No meu portfólio, apresento projetos que elaborei com foco em **educação, mobilidade urbana, marketing digital e comportamento do usuário**, utilizando ferramentas modernas de análise e visualização.
-
+⭐ «Los datos cuentan historias, y mi papel es traducirlas para el mundo.»
+👩🏻‍💻 Thata Honorato
+📊 Educational Data Analyst | Learning Analytics & EdTech
+Soy Historiadora y Pedagoga, con posgrado en Docencia en Educación Superior y formación en Data Analytics por TripleTen.
+Combino experiencia educativa y análisis de datos para transformar información en insights que apoyen la toma de decisiones y mejoren las experiencias de aprendizaje.
+En mi portafolio comparto proyectos de análisis de datos, visualización y storytelling desarrollados con SQL, Python, Tableau y Streamlit, con especial interés en Learning Analytics, analítica educativa y EdTech.
 ---
 
 
