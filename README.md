@@ -14,88 +14,81 @@ No meu portfólio, apresento projetos que elaborei com foco em **educação, mob
 ---
 
 
-**`Em Destaque`**
-## ⚡ Energia Renovável (Projeto Em Andamento)
+## 🚀 EdTech Learning Analytics Platform (Proyecto en Desarrollo)
 
-📊 **Título:** Análise de Capacidade e Distribuição de Usinas de Energia Renovável na Itália  
+📊 **Título:** Dashboard de Analítica Educativa para Entornos Digitales
 
-🔍 **Objetivo:** Explorar e visualizar dados de energia eólica, solar e hidroelétrica, identificando padrões regionais e correlações com fatores econômicos e ambientais.  
+🔍 **Objetivo:** Explorar el comportamiento de los estudiantes en plataformas de aprendizaje online, identificando patrones de engagement, retención y progreso académico.
 
-🧠 **Tecnologias:** Python, Pandas, Plotly, Streamlit, Geopandas, SQL  
+🧠 **Tecnologías:** SQL, Python, Pandas, Tableau, Streamlit
 
-🚀 **Status:** Desenvolvimento do dashboard interativo com indicadores regionais e mapa georreferenciado.
+📈 **Métricas Clave:**
+
+* Engagement de usuarios
+* Tasa de finalización de cursos
+* Retención de estudiantes
+* Tiempo de aprendizaje
+* Progreso académico
+
+🚀 **Estado:** Diseño y desarrollo de dashboard interactivo orientado a Learning Analytics y EdTech.
 
 ---
 
-## 🧠 Áreas de Interesse & Expertise  
+## 🧠 Áreas de Interés & Expertise
 
 <div align="center">
 
 <table>
 <tr>
 <td align="center" width="33%" style="background-color:#d8f3dc; border-radius:10px; padding:10px;">
-  
-⚡ **Análise de Dados Energéticos**  
-🔋 Estudos sobre energia renovável, capacidade instalada, localização e padrões regionais.  
+
+🎓 **Learning Analytics**
+📚 Análisis de datos educativos para comprender el rendimiento, la participación y la experiencia de aprendizaje.
 
 </td>
+
 <td align="center" width="33%" style="background-color:#e9f5db; border-radius:10px; padding:10px;">
-  
-💡 **Análise Exploratória (EDA)**  
-🔍 Descoberta de padrões, tendências e insights relevantes em grandes volumes de dados.  
+
+📊 **Análisis Exploratorio de Datos (EDA)**
+🔍 Identificación de patrones, tendencias e insights relevantes en conjuntos de datos complejos.
 
 </td>
+
 <td align="center" width="33%" style="background-color:#fefae0; border-radius:10px; padding:10px;">
-  
-📈 **Visualização & Storytelling**  
-🎨 Comunicação de dados de forma clara e envolvente usando Plotly, Tableau e Streamlit.  
+
+📈 **Visualización & Storytelling**
+🎨 Comunicación de hallazgos mediante dashboards interactivos y narrativas basadas en datos.
 
 </td>
 </tr>
 
 <tr>
 <td align="center" width="33%" style="background-color:#e0f7fa; border-radius:10px; padding:10px;">
-  
-🗃️ **SQL & Integração de Dados**  
-🧠 Extração, limpeza e combinação de múltiplas fontes (CSV, SQL, Excel).  
+
+🗃️ **SQL & Gestión de Datos**
+🧠 Extracción, limpieza, transformación e integración de múltiples fuentes de datos.
 
 </td>
+
 <td align="center" width="33%" style="background-color:#ede7f6; border-radius:10px; padding:10px;">
-  
-⚙️ **Automação & Dashboards**  
-🚀 Criação de dashboards interativos com Streamlit, Tableau e Power BI.  
+
+🚀 **EdTech & Analítica Educativa**
+📊 Uso de datos para optimizar experiencias de aprendizaje y apoyar decisiones educativas.
 
 </td>
+
 <td align="center" width="33%" style="background-color:#fff3e0; border-radius:10px; padding:10px;">
-  
-📊 **Marketing & Estudos de Mercado**  
-🎯 Análise de comportamento de usuários e performance de campanhas.  
+
+🧪 **A/B Testing & Análisis de Usuarios**
+🎯 Evaluación de comportamientos, hipótesis y métricas de interacción en entornos digitales.
 
 </td>
 </tr>
 
-<tr>
-<td align="center" width="33%" style="background-color:#f3e5f5; border-radius:10px; padding:10px;">
-  
-🌍 **Sustentabilidade & Georreferenciamento**  
-🌱 Estudos sobre impacto ambiental e análise espacial de dados por região e província.  
-
-</td>
-<td align="center" width="33%" style="background-color:#fce4ec; border-radius:10px; padding:10px;">
-  
-🧩 **Testes A/B & Experimentos**  
-🧪 Validação de hipóteses e comparação de grupos com base em dados reais.  
-
-</td>
-<td align="center" width="33%" style="background-color:#e8eaf6; border-radius:10px; padding:10px;">
-  
-📚 **Educação & História Digital**  
-🏛️ Aplicação de análise de dados em contextos educacionais e históricos.  
-
-</td>
-</tr>
 </table>
+
 </div>
+
 
 ---
 
@@ -156,13 +149,4 @@ No meu portfólio, apresento projetos que elaborei com foco em **educação, mob
     />
   </a>
 
-  <a href="https://www.behance.net/thatahonorato">
-    <img 
-         alt="Behance" 
-         src="https://img.shields.io/badge/Behance-0057FF?style=for-the-badge&logo=behance&logoColor=white" 
-    />
-  </a>
-
-</div>
-
-
+  
