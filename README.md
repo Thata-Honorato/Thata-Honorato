@@ -1,16 +1,15 @@
 ⭐ *“Data tells stories, and my role is to translate them for the world.”*
 
-# 👩🏻‍💻 Thata Honorato
+# 👩🏻‍💻 Thaís Pontes
 
-📊 **Data Analyst | Data Analytics, Visualization & Storytelling**
+📊 **Data Analyst | SQL, Python & Business Intelligence**
 
-I am a Historian and Educator with a postgraduate degree in Higher Education Teaching and training in Data Analytics from TripleTen.
+I am a historian and educator, with a postgraduate qualification in Higher Education Teaching and training in Data Analysis from TripleTen.
 
-I combine analytical thinking, educational experience, and data-driven problem-solving to transform complex information into actionable insights that support decision-making and improve outcomes.
+I combine analytical thinking and experience in education to investigate data, identify patterns and produce insights that support decision-making.
 
-My portfolio focuses on practical data analytics projects, with interests spanning business intelligence, user behavior, and Learning Analytics.
+My portfolio includes data analysis and visualisation projects using SQL, Python, Pandas, Tableau and Streamlit, with applications in business intelligence, user behaviour and learning analytics.
 
-I am currently developing my technical skills and building projects that demonstrate my ability to turn data into meaningful insights.
 
 ---
 
