@@ -8,8 +8,9 @@ I am a Historian and Educator with a postgraduate degree in Higher Education Tea
 
 I combine analytical thinking, educational experience, and data-driven problem-solving to transform complex information into actionable insights that support decision-making and improve outcomes.
 
-In my portfolio, I showcase projects in data analysis, exploratory data analysis, visualization, and storytelling using SQL, Python, Tableau, and Streamlit. I am interested in applying data analytics across different industries, including business, marketing, product, and education, with a particular interest in Learning Analytics and EdTech.
+My portfolio focuses on practical data analytics projects, with interests spanning business intelligence, user behavior, and Learning Analytics.
 
+I am currently developing my technical skills and building projects that demonstrate my ability to turn data into meaningful insights.
 
 ---
 
