@@ -1,15 +1,14 @@
-⭐ *«Data tells stories, and my role is to translate them for the world.»*
+⭐ *“Data tells stories, and my role is to translate them for the world.”*
 
-# 👩🏻‍💻 Thata Honorato
+# 👩🏻‍💻 Thaís Pontes
 
-📊 Educational Data Analyst | Learning Analytics & EdTech
+📊 **Educational Data Analyst | Learning Analytics & EdTech**
 
-I am a Historian and Educator, with a postgraduate degree in **Higher Education Teaching** and training in **Data Analytics** from TripleTen.
+I am a Historian and Educator with a postgraduate degree in Higher Education Teaching and training in Data Analytics from TripleTen.
 
-I combine educational experience and data analysis to transform information into insights that support decision-making and improve learning experiences.
+I combine my background in education with data analytics to uncover patterns, generate actionable insights, and support data-driven decision-making that improves learning experiences.
 
-In my portfolio, I share data analysis, visualization, and storytelling projects developed with SQL, Python, Tableau, and Streamlit, with a special interest in Learning Analytics, educational analytics, and EdTech.
-
+In my portfolio, I showcase projects in data analysis, visualization, and storytelling using SQL, Python, Tableau, and Streamlit. My primary interests lie in Learning Analytics, educational data analysis, and EdTech, where I aim to leverage data to better understand student behavior and support more effective learning environments.
 ---
 
 ## 🚀 EdTech Learning Analytics Platform (Project in Development)
