@@ -150,7 +150,7 @@ In my portfolio, I share data analysis, visualization, and storytelling projects
 
 <div align="center">
   
-  <a href="https://www.linkedin.com/in/thata-pontes-honorato-24hp">
+  <a href="https://www.linkedin.com/in/thata-data-analyst">
     <img 
          alt="LinkedIn" 
          src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
