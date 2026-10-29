@@ -1,39 +1,38 @@
-⭐ *«Los datos cuentan historias, y mi papel es traducirlas para el mundo.»*
+⭐ *«Data tells stories, and my role is to translate them for the world.»*
 
 # 👩🏻‍💻 Thata Honorato
 
 📊 Educational Data Analyst | Learning Analytics & EdTech
 
-Soy Historiadora y Pedagoga, con posgrado en **Docencia en Educación Superior** y formación en **Data Analytics** por TripleTen.
+I am a Historian and Educator, with a postgraduate degree in **Higher Education Teaching** and training in **Data Analytics** from TripleTen.
 
-Combino experiencia educativa y análisis de datos para transformar información en insights que apoyen la toma de decisiones y mejoren las experiencias de aprendizaje.
+I combine educational experience and data analysis to transform information into insights that support decision-making and improve learning experiences.
 
-En mi portafolio comparto proyectos de análisis de datos, visualización y storytelling desarrollados con SQL, Python, Tableau y Streamlit, con especial interés en Learning Analytics, analítica educativa y EdTech.
-
----
-
-
-## 🚀 EdTech Learning Analytics Platform (Proyecto en Desarrollo)
-
-📊 **Título:** Dashboard de Analítica Educativa para Entornos Digitales
-
-🔍 **Objetivo:** Explorar el comportamiento de los estudiantes en plataformas de aprendizaje online, identificando patrones de engagement, retención y progreso académico.
-
-🧠 **Tecnologías:** SQL, Python, Pandas, Tableau, Streamlit
-
-📈 **Métricas Clave:**
-
-* Engagement de usuarios
-* Tasa de finalización de cursos
-* Retención de estudiantes
-* Tiempo de aprendizaje
-* Progreso académico
-
-🚀 **Estado:** Diseño y desarrollo de dashboard interactivo orientado a Learning Analytics y EdTech.
+In my portfolio, I share data analysis, visualization, and storytelling projects developed with SQL, Python, Tableau, and Streamlit, with a special interest in Learning Analytics, educational analytics, and EdTech.
 
 ---
 
-## 🧠 Áreas de Interés & Expertise
+## 🚀 EdTech Learning Analytics Platform (Project in Development)
+
+📊 **Title:** Educational Analytics Dashboard for Digital Learning Environments
+
+🔍 **Objective:** Explore student behavior on online learning platforms, identifying patterns in engagement, retention, and academic progress.
+
+🧠 **Technologies:** SQL, Python, Pandas, Tableau, Streamlit
+
+📈 **Key Metrics:**
+
+* User engagement
+* Course completion rate
+* Student retention
+* Learning time
+* Academic progress
+
+🚀 **Status:** Design and development of an interactive dashboard focused on Learning Analytics and EdTech.
+
+---
+
+## 🧠 Areas of Interest & Expertise
 
 <div align="center">
 
@@ -42,21 +41,21 @@ En mi portafolio comparto proyectos de análisis de datos, visualización y stor
 <td align="center" width="33%" style="background-color:#d8f3dc; border-radius:10px; padding:10px;">
 
 🎓 **Learning Analytics**
-📚 Análisis de datos educativos para comprender el rendimiento, la participación y la experiencia de aprendizaje.
+📚 Educational data analysis to understand performance, participation, and the learning experience.
 
 </td>
 
 <td align="center" width="33%" style="background-color:#e9f5db; border-radius:10px; padding:10px;">
 
-📊 **Análisis Exploratorio de Datos (EDA)**
-🔍 Identificación de patrones, tendencias e insights relevantes en conjuntos de datos complejos.
+📊 **Exploratory Data Analysis (EDA)**
+🔍 Identification of relevant patterns, trends, and insights in complex datasets.
 
 </td>
 
 <td align="center" width="33%" style="background-color:#fefae0; border-radius:10px; padding:10px;">
 
-📈 **Visualización & Storytelling**
-🎨 Comunicación de hallazgos mediante dashboards interactivos y narrativas basadas en datos.
+📈 **Visualization & Storytelling**
+🎨 Communicating findings through interactive dashboards and data-driven narratives.
 
 </td>
 </tr>
@@ -64,22 +63,22 @@ En mi portafolio comparto proyectos de análisis de datos, visualización y stor
 <tr>
 <td align="center" width="33%" style="background-color:#e0f7fa; border-radius:10px; padding:10px;">
 
-🗃️ **SQL & Gestión de Datos**
-🧠 Extracción, limpieza, transformación e integración de múltiples fuentes de datos.
+🗃️ **SQL & Data Management**
+🧠 Extraction, cleaning, transformation, and integration of multiple data sources.
 
 </td>
 
 <td align="center" width="33%" style="background-color:#ede7f6; border-radius:10px; padding:10px;">
 
-🚀 **EdTech & Analítica Educativa**
-📊 Uso de datos para optimizar experiencias de aprendizaje y apoyar decisiones educativas.
+🚀 **EdTech & Educational Analytics**
+📊 Using data to optimize learning experiences and support educational decisions.
 
 </td>
 
 <td align="center" width="33%" style="background-color:#fff3e0; border-radius:10px; padding:10px;">
 
-👥 **Comportamiento de Usuarios & A/B Testing**
-🧪 Análisis de interacción, engagement, retención y validación de hipótesis en entornos digitales.
+👥 **User Behavior & A/B Testing**
+🧪 Analysis of interaction, engagement, retention, and hypothesis validation in digital environments.
 
 </td>
 </tr>
@@ -87,22 +86,22 @@ En mi portafolio comparto proyectos de análisis de datos, visualización y stor
 <tr>
 <td align="center" width="33%" style="background-color:#f3e5f5; border-radius:10px; padding:10px;">
 
-🏛️ **Educación & Humanidades Digitales**
-📚 Aplicación de datos en contextos educativos, históricos y culturales.
+🏛️ **Education & Digital Humanities**
+📚 Application of data in educational, historical, and cultural contexts.
 
 </td>
 
 <td align="center" width="33%" style="background-color:#fce4ec; border-radius:10px; padding:10px;">
 
 💡 **Business Intelligence**
-📈 Desarrollo de indicadores, métricas y dashboards para apoyar la toma de decisiones.
+📈 Development of indicators, metrics, and dashboards to support decision-making.
 
 </td>
 
 <td align="center" width="33%" style="background-color:#e8eaf6; border-radius:10px; padding:10px;">
 
-🌍 **Proyectos Multidisciplinares**
-🔍 Experiencia en educación, marketing digital, comportamiento de usuarios y análisis aplicado.
+🌍 **Multidisciplinary Projects**
+🔍 Experience in education, digital marketing, user behavior, and applied analysis.
 
 </td>
 </tr>
@@ -115,7 +114,7 @@ En mi portafolio comparto proyectos de análisis de datos, visualización y stor
 
 ---
 
-## 🧰 Ferramentas e Tecnologias  
+## 🧰 Tools and Technologies  
 
 <img align="left" alt="Python" title="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/> <img align="left" alt="Pandas" title="Pandas" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/> <img align="left" alt="NumPy" title="NumPy" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/> <!-- Plotly (custom SVG since Devicon doesn't have one) --> <img align="left" alt="Plotly" title="Plotly" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg"/> <!-- Streamlit (custom SVG) --> <img align="left" alt="Streamlit" title="Streamlit" width="40px" style="padding-right:10px;" src="https://streamlit.io/images/brand/streamlit-mark-color.svg"/> <!-- SQL / MySQL --> <img align="left" alt="SQL" title="SQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/> <!-- Tableau (custom SVG) --> <img align="left" alt="Tableau" title="Tableau" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png"/> <!-- Power BI (custom SVG) --> <img align="left" alt="Power BI" title="Power BI" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"/> <!-- Git --> <img align="left" alt="Git" title="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/> <!-- GitHub --> <img align="left" alt="GitHub" title="GitHub" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 
@@ -127,7 +126,7 @@ En mi portafolio comparto proyectos de análisis de datos, visualización y stor
 
 -----
 
-### 📊 Estatísticas do GitHub
+### 📊 GitHub Statistics
 
 <div align="center">
 
@@ -140,14 +139,14 @@ En mi portafolio comparto proyectos de análisis de datos, visualización y stor
   <img 
       alt="Top Languages" 
       height="180" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thata-Honorato&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thata-Honorato&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=8" 
   />
 
 </div>
 
 ---
 
-### 🌐 Conecte-se comigo
+### 🌐 Connect with Me
 
 <div align="center">
   
@@ -171,5 +170,3 @@ En mi portafolio comparto proyectos de análisis de datos, visualización y stor
          src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
     />
   </a>
-
-  
